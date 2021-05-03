@@ -7,7 +7,7 @@
     <div class="content">
       <div class="img"><img src="../../../assets/images/patent.png" alt=""></div>
       <p class="title"><a href="../../../../static/software.doc" download="../../../../static/software.doc">点击下载</a></p>
-      <br><br><br><br><br><br><br><br><br><br>
+      <br><br><br><br><br><br><br><br><br><br>   
     </div>
   </div>
 </template>
