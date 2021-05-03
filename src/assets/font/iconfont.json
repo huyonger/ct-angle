@@ -1,0 +1,23 @@
+{
+  "id": "2477153",
+  "name": "ct-angle",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19594672",
+      "name": "右箭头",
+      "font_class": "right-arrow-1",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "1185471",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
