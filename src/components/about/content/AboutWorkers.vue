@@ -10,7 +10,7 @@
         <img src="../../../assets/images/I_need_you.png" alt="">
         <span><span>手机</span><span>扫码，加入</span><span>我们</span></span>
       </p>
-    </div>
+    </div>  
   </div>
 </template>
 
