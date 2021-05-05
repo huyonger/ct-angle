@@ -8,7 +8,7 @@
       <!--  <img src="../../assets/images/2.jpg" alt="">-->
       <!--</el-carousel-item>-->
       <el-carousel-item :key="3">
-        <img src="../../assets/images/5.png" alt="">
+        <img src="../../assets/images/5.png" alt=""> 
       </el-carousel-item>
       <el-carousel-item :key="4">
         <img src="../../assets/images/4.jpg" alt="">
