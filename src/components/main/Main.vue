@@ -30,7 +30,7 @@
           <div :class="{'first':index===1,'animate__animated':index===1,'animate__backInDown':index===1}">指尖挥动</div>
           <div :class="{'second':index===1,'animate__animated':index===1,'animate__backInDown':index===1}">私人诊所为您打开</div>
         </div>
-      </div>
+      </div> 
     </el-carousel>
   </div>
 </template>
