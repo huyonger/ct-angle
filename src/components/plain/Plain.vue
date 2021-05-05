@@ -6,7 +6,7 @@
   export default {
     name: "Plain",
     data(){
-      return{
+      return{  
         path:''
       }
     },
