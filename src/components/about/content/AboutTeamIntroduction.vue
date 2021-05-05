@@ -12,7 +12,7 @@
         <el-card shadow="hover">
           <h3>谢渝</h3>
           <div class="left">
-            <img src="../../../assets/images/man1.jpg" alt="">
+            <img src="../../../assets/images/man1.jpg" alt="">  
           </div>
           <div class="right">
             <p>毕业设计方向为计量地理与GIS；本科期间多次获得校级奖学金；英语能力突出，雅思6.5分；在2019年9月曾受英国杜伦大学邀请，赴英学习；在2018年暑假参与湖北省地理综合实习。</p>
