@@ -14,7 +14,7 @@
           <li><a href="#" :class="{'active':propIndex===2}" @click="changeNav(2)">新闻咨询</a></li>
           <li><a href="#" :class="{'active':propIndex===3}" @click="changeNav(3)">产品系统</a></li>
           <li><a href="#" :class="{'active':propIndex===4}" @click="changeNav(4)">解决方案</a></li>
-          <li><a href="#" :class="{'active':propIndex===5}" @click="changeNav(5)">联系我们</a></li>
+          <li><a href="#" :class="{'active':propIndex===5}" @click="changeNav(5)">联系我们</a></li> 
         </ul>
       </div>
     </div>
